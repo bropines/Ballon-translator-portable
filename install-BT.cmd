@@ -1,7 +1,7 @@
 @echo off
 del README.md
 del LICENSE
-echo Unpacking Git and Python... & mkdir tmp & start /wait git_python.part01.exe -s
+echo Unpacking Git and Python... & mkdir tmp & start /wait git_python.part01.exe & del git_python.part01.exe & del git_python.part*.rar
 
 set path=git\cmd
 git init .
