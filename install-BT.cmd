@@ -1,5 +1,5 @@
 @echo off
-echo Unpacking Git and Python... & mkdir tmp & start /wait git_python.exe -s2 
+echo Unpacking Git and Python... & mkdir tmp & start /wait git_python.part01.exe -s
 
 set path=git\cmd
 git init .
