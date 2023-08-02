@@ -1,2 +1,18 @@
-# Ballon-translator-portable
+
 Ballon-Translator dev branch auto-installer
+
+# Ballon-translator-portable
+This is a portable version based on the [Ballontranslator](https://github.com/dmMaze/BallonsTranslator) version
+
+----
+
+## Running on Windows
+1. Download [Ballon-translator-portable](https://github.com/bropines/Ballon-translator-portable/archive/refs/heads/main.zip)
+2. Unzip the `Ballon-translator` folder anywhere you want</br>
+ Root directory preferred, and path shouldn't have spaces and Cyrillic</br>
+ Example: `D:\stable-diffusion-portable-main`</br>
+3. Run `install-BT.cmd` and wait for a couple seconds
+4. After installation, вам следует закрыть программу (когда она запустится), download the data folder from the link from the [official repository](https://github.com/dmMaze/BallonsTranslator#%E8%BF%90%E8%A1%8C%E6%BA%90%E7%A0%81) and unpack it into the Ballon-Translator folder
+5. For subsequent launches of the program, simply open **launch_win_venv.bat**
+
+*P.S. Due to Windows specifics, any attempt to block network access may crash the install/update processes, so you will have to rerun .bat again.*
