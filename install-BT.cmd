@@ -1,5 +1,6 @@
 @echo off
 del README.md
+del LICENSE
 echo Unpacking Git and Python... & mkdir tmp & start /wait git_python.part01.exe -s
 
 set path=git\cmd
