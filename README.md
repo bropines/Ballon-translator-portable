@@ -17,4 +17,4 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
 
 *P.S. Due to Windows specifics, any attempt to block network access may crash the install/update processes, so you will have to rerun .bat again.*
 
-В качестве референса был использован аналогичный скрипт для установки [Stable-Diffusion](https://github.com/serpotapov/stable-diffusion-portable)
+A similar script was used as a reference to install [Stable-Diffusion](https://github.com/serpotapov/stable-diffusion-portable)
