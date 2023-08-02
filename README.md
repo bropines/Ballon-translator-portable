@@ -15,6 +15,8 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
 4. After installation, вам следует закрыть программу (когда она запустится), download the data folder from the link from the [official repository](https://github.com/dmMaze/BallonsTranslator#%E8%BF%90%E8%A1%8C%E6%BA%90%E7%A0%81) and unpack it into the Ballon-Translator folder
 5. For subsequent launches of the program, simply open **launch_win_venv.bat**
 
+*For update original repo open update_git.bat*
+
 *P.S. Due to Windows specifics, any attempt to block network access may crash the install/update processes, so you will have to rerun .bat again.*
 
 A similar script was used as a reference to install [Stable-Diffusion](https://github.com/serpotapov/stable-diffusion-portable)
