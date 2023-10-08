@@ -12,7 +12,7 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
  Root directory preferred, and path shouldn't have spaces and Cyrillic</br>
  Example: `D:\Ballon-translator-portable-main`</br>
 3. Run `install-BT.cmd` and wait for a couple seconds
-4. ~~After installation, you should close the program (when it starts), download the data folder from the link from the [official repository](https://github.com/dmMaze/BallonsTranslator#%E8%BF%90%E8%A1%8C%E6%BA%90%E7%A0%81) and unpack it into the Ballon-Translator folder~~
+
 
 *I added a script for auto-downloading models and config (for some reason, the program does not work without it)*
 
