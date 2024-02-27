@@ -14,7 +14,7 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
 3. Run `install-BT.cmd` and wait for a couple seconds
 
 
-*I added a script for auto-downloading models and config (for some reason, the program does not work without it)*
+~*I added a script for auto-downloading models and config (for some reason, the program does not work without it)*~
 
 6. For subsequent launches of the program, simply open **launch_win_venv.bat**
 
