@@ -16,7 +16,7 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
 
 ~*I added a script for auto-downloading models and config (for some reason, the program does not work without it)*~
 
-6. For subsequent launches of the program, simply open **launch_win_venv.bat**
+6. For subsequent launches of the program, just open **launch_win_venv.bat**
 
 *For update original repo open update_git.bat*
 
