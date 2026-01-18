@@ -22,6 +22,10 @@ if not exist "git\cmd\git.exe" (
 
 set path=%cd%\git\cmd;%path%
 
+echo Fixing dubious ownership for portable Git...
+
+git config --system --replace-all safe.directory "*"
+
 echo Initializing repository and fetching from remote...
 
 git init
