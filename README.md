@@ -1,5 +1,7 @@
+# Ballon-Translator dev branch auto-installer
 
-Ballon-Translator dev branch auto-installer
+> [!WARNING]
+> **Warning:** The main repository [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) is currently undergoing active updates. Until the author finishes these changes, this fork/auto-installer script may not work correctly or will be completely useless.
 
 # Ballon-translator-portable
 This is a portable version based on the [Ballontranslator](https://github.com/dmMaze/BallonsTranslator) version
@@ -8,11 +10,10 @@ This is a portable version based on the [Ballontranslator](https://github.com/dm
 
 ## Running on Windows
 1. Download [Ballon-translator-portable](https://github.com/bropines/Ballon-translator-portable/archive/refs/heads/main.zip)
-2. Unzip the `Ballon-translator-portable-main` folder anywhere you want</br>
- Root directory preferred, and path shouldn't have spaces and Cyrillic</br>
- Example: `D:\Ballon-translator-portable-main`</br>
+2. Unzip the `Ballon-translator-portable-main` folder anywhere you want  
+   Root directory preferred, and path shouldn't have spaces and Cyrillic  
+   Example: `D:\Ballon-translator-portable-main`  
 3. Run `install-BT.cmd` and wait for a couple seconds
-
 
 ~*I added a script for auto-downloading models and config (for some reason, the program does not work without it)*~
 
