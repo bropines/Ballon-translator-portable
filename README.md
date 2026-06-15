@@ -1,7 +1,9 @@
 # Ballon-Translator dev branch auto-installer
 
 > [!WARNING]
-> **Warning:** The main repository [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) is currently undergoing active updates. Until the author finishes these changes, this fork/auto-installer script may not work correctly or will be completely useless.
+> The project has been archived, updates and fixes will not be released. With DmMaze, we decided that now a portable version would be built in the main repository, and installation methods with one command were also added. Please contact 
+https://github.com/dmMaze/BallonsTranslator/blob/dev/README_EN.md#installation
+> Thank you for your trust all this time.
 
 # Ballon-translator-portable
 This is a portable version based on the [Ballontranslator](https://github.com/dmMaze/BallonsTranslator) version
